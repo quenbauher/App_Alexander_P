@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Francia</string>
+    <string name="app_idiomas">Le texte de la demande</string>
+    <string name="texto">Ceci est le deuxième texte </string>
+
+
+</resources>
