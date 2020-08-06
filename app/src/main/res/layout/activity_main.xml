@@ -21,8 +21,8 @@
 
     <TextView
         android:id="@+id/textView"
-        android:layout_width="110dp"
-        android:layout_height="42dp"
+        android:layout_width="122dp"
+        android:layout_height="64dp"
         android:text="@string/texto"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
