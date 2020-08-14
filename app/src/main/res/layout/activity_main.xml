@@ -30,6 +30,9 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/img_p" />
+<<<<<<< HEAD
+>>>>>>> a051b8ce23c688e964525c93ae2a749b17adc0c4
+=======
 >>>>>>> a051b8ce23c688e964525c93ae2a749b17adc0c4
 
     <TextView
