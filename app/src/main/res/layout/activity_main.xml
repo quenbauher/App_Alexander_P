@@ -10,7 +10,7 @@
 
     <ImageView
         android:id="@+id/imageView"
-<<<<<<< HEAD
+
         android:layout_width="2039dp"
         android:layout_height="846dp"
         android:contentDescription="TODO"
@@ -19,21 +19,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/img_p_playstore" />
-=======
-        android:layout_width="900dp"
-        android:layout_height="758dp"
-        android:contentDescription="TODO"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.533"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.0"
-        app:srcCompat="@drawable/img_p" />
-<<<<<<< HEAD
->>>>>>> a051b8ce23c688e964525c93ae2a749b17adc0c4
-=======
->>>>>>> a051b8ce23c688e964525c93ae2a749b17adc0c4
 
     <TextView
         android:id="@+id/textView"
