@@ -1,0 +1,28 @@
+<application>
+  <component name="ToolbarConfigurable">
+    <option name="toolbarConfiguration">
+      <value>
+        <option name="actionIds">
+          <value>
+            <list size="16">
+              <item index="0" class="java.lang.String" itemvalue="OpenFile" />
+              <item index="1" class="java.lang.String" itemvalue="SaveAll" />
+              <item index="2" class="java.lang.String" itemvalue="Synchronize" />
+              <item index="4" class="java.lang.String" itemvalue="ToolbarFindGroup" />
+              <item index="5" class="java.lang.String" itemvalue="Back" />
+              <item index="6" class="java.lang.String" itemvalue="Forward" />
+              <item index="7" class="java.lang.String" itemvalue="ToolbarRunGroup" />
+              <item index="9" class="java.lang.String" itemvalue="Android.MainToolBarActionGroup" />
+              <item index="10" class="java.lang.String" itemvalue="MainToolBarSettings" />
+              <item index="12" class="java.lang.String" itemvalue="RunAnything" />
+              <item index="13" class="java.lang.String" itemvalue="SearchEverywhere" />
+              <item index="14" class="java.lang.String" itemvalue="GoogleLogin.LoginService" />
+              <item index="15" class="java.lang.String" itemvalue="tasks.toolbar.group" />
+            </list>
+          </value>
+        </option>
+        <option name="isInitialized" value="true" />
+      </value>
+    </option>
+  </component>
+</application>
